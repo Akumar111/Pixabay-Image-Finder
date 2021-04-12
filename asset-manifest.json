@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Pixabay-Image-Finder/static/css/main.ea1455b2.chunk.css",
+    "main.js": "/Pixabay-Image-Finder/static/js/main.fcf7fa22.chunk.js",
+    "main.js.map": "/Pixabay-Image-Finder/static/js/main.fcf7fa22.chunk.js.map",
+    "runtime-main.js": "/Pixabay-Image-Finder/static/js/runtime-main.545af438.js",
+    "runtime-main.js.map": "/Pixabay-Image-Finder/static/js/runtime-main.545af438.js.map",
+    "static/js/2.cde19175.chunk.js": "/Pixabay-Image-Finder/static/js/2.cde19175.chunk.js",
+    "static/js/2.cde19175.chunk.js.map": "/Pixabay-Image-Finder/static/js/2.cde19175.chunk.js.map",
+    "static/js/3.2f3cf30d.chunk.js": "/Pixabay-Image-Finder/static/js/3.2f3cf30d.chunk.js",
+    "static/js/3.2f3cf30d.chunk.js.map": "/Pixabay-Image-Finder/static/js/3.2f3cf30d.chunk.js.map",
+    "index.html": "/Pixabay-Image-Finder/index.html",
+    "static/css/main.ea1455b2.chunk.css.map": "/Pixabay-Image-Finder/static/css/main.ea1455b2.chunk.css.map",
+    "static/js/2.cde19175.chunk.js.LICENSE.txt": "/Pixabay-Image-Finder/static/js/2.cde19175.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.545af438.js",
+    "static/js/2.cde19175.chunk.js",
+    "static/css/main.ea1455b2.chunk.css",
+    "static/js/main.fcf7fa22.chunk.js"
+  ]
+}
